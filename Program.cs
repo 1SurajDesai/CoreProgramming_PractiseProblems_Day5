@@ -10,8 +10,8 @@ namespace BasicCoreProgram
             //SwappingNo.SwapTwoNo();
             //FindLargestNo.FindLargestNumber();
             //CoinFlip.FlipTheCoin();
-            LeapYear.CheckLeapYear();
-            //PowerOftwo.powerFunction();
+            //LeapYear.CheckLeapYear();
+            PowerOftwo.powerFunction();
             //Harmonic.harmonicFunction();
             //PrimeFactors.FindPrimeFactors();
             //EvenOdd.EvenOrOddNo();
