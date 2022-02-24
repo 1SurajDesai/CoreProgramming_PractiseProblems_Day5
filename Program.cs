@@ -9,8 +9,8 @@ namespace BasicCoreProgram
             //PrimeNo.CheckPrimeNo();
             //SwappingNo.SwapTwoNo();
             //FindLargestNo.FindLargestNumber();
-            CoinFlip.FlipTheCoin();
-            //LeapYear.CheckLeapYear();
+            //CoinFlip.FlipTheCoin();
+            LeapYear.CheckLeapYear();
             //PowerOftwo.powerFunction();
             //Harmonic.harmonicFunction();
             //PrimeFactors.FindPrimeFactors();
