@@ -7,7 +7,7 @@ namespace BasicCoreProgram
         {
             //VowelConstant.CheckVowelConstant();
             //PrimeNo.CheckPrimeNo();
-            //SwappingNo.SwapTwoNo();
+            SwappingNo.SwapTwoNo();
             //FindLargestNo.FindLargestNumber();
             //CoinFlip.FlipTheCoin();
             //LeapYear.CheckLeapYear();
@@ -15,7 +15,7 @@ namespace BasicCoreProgram
             //Harmonic.harmonicFunction();
             //PrimeFactors.FindPrimeFactors();
             //EvenOdd.EvenOrOddNo();
-            QuotientAndRemainder.FindQuotientAndRemainder();
+            //QuotientAndRemainder.FindQuotientAndRemainder();
         }
     }
 }
