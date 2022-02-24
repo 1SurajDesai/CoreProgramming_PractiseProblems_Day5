@@ -13,9 +13,9 @@ namespace BasicCoreProgram
             //LeapYear.CheckLeapYear();
             //PowerOftwo.powerFunction();
             //Harmonic.harmonicFunction();
-            PrimeFactors.FindPrimeFactors();
+            //PrimeFactors.FindPrimeFactors();
             //EvenOdd.EvenOrOddNo();
-            //QuotientAndRemainder.FindQuotientAndRemainder();
+            QuotientAndRemainder.FindQuotientAndRemainder();
         }
     }
 }
