@@ -12,8 +12,8 @@ namespace BasicCoreProgram
             //CoinFlip.FlipTheCoin();
             //LeapYear.CheckLeapYear();
             //PowerOftwo.powerFunction();
-            Harmonic.harmonicFunction();
-            //PrimeFactors.FindPrimeFactors();
+            //Harmonic.harmonicFunction();
+            PrimeFactors.FindPrimeFactors();
             //EvenOdd.EvenOrOddNo();
             //QuotientAndRemainder.FindQuotientAndRemainder();
         }
