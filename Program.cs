@@ -7,14 +7,14 @@ namespace BasicCoreProgram
         {
             //VowelConstant.CheckVowelConstant();
             //PrimeNo.CheckPrimeNo();
-            SwappingNo.SwapTwoNo();
+            //SwappingNo.SwapTwoNo();
             //FindLargestNo.FindLargestNumber();
             //CoinFlip.FlipTheCoin();
             //LeapYear.CheckLeapYear();
             //PowerOftwo.powerFunction();
             //Harmonic.harmonicFunction();
             //PrimeFactors.FindPrimeFactors();
-            //EvenOdd.EvenOrOddNo();
+            EvenOdd.EvenOrOddNo();
             //QuotientAndRemainder.FindQuotientAndRemainder();
         }
     }
