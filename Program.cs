@@ -11,8 +11,8 @@ namespace BasicCoreProgram
             //FindLargestNo.FindLargestNumber();
             //CoinFlip.FlipTheCoin();
             //LeapYear.CheckLeapYear();
-            PowerOftwo.powerFunction();
-            //Harmonic.harmonicFunction();
+            //PowerOftwo.powerFunction();
+            Harmonic.harmonicFunction();
             //PrimeFactors.FindPrimeFactors();
             //EvenOdd.EvenOrOddNo();
             //QuotientAndRemainder.FindQuotientAndRemainder();
