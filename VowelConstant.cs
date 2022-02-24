@@ -19,7 +19,7 @@ namespace BasicCoreProgram
             }
             else
             {
-                Console.WriteLine("Its a Constant");
+                Console.WriteLine("Its a Consonant");
             }
         }
     }
